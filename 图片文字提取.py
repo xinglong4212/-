@@ -2,8 +2,6 @@
 # 增强图像清晰度的示例代码：
 import cv2
 import numpy as np
-
-import cv2
 import pytesseract
 import pandas as pd
 from pytesseract import Output
